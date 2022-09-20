@@ -65,7 +65,7 @@ Create a program called `part3.py`. It will have just a `main()` function. The `
 
 1. Open a file to read provided as a command line argument. I've provided an example text file in this repository called `testfile.txt`.
 
-2. Create **four** variables which will store, respectively: (1) the number of lines in the file; (2) the number of characters in the file; (3) the number of lines containing the letter "e"; (4) the number of lines containing the letter "x".
+2. Create **four** variables which will store, respectively: (1) the number of lines in the file; (2) the number of characters in the file; (3) the number of lines containing the letter "q"; (4) the number of lines containing the letter "t".
 
 3. Read in the file line by line. For each line add to the totals stored in the above variables.
 
@@ -73,17 +73,8 @@ Create a program called `part3.py`. It will have just a `main()` function. The `
 
 5. Write out to `filestats.txt` the information you kept track of while reading in the input file, as well as the average number of characters per line **formatted with two digits after the decimal point**, which you will 
 
-Here is a completely made-up example of what the output file you create should look like:
-
-```
-File Statistics
-Number of line: 31
-Number of characters: 256
-Number of lines containing "e": 256
-Number of lines containing "x": 57
-Characters per line: 6.24
-```
-
+Here is **EXACTLY** what the output file you create should look like:
+<img src="pic3.png" width=700>
 ---
 
 ## What to turn in
