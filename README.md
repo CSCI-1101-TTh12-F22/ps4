@@ -73,8 +73,17 @@ Create a program called `part3.py`. It will have just a `main()` function. The `
 
 5. Write out to `filestats.txt` the information you kept track of while reading in the input file, as well as the average number of characters per line **formatted with two digits after the decimal point**, which you will 
 
-Here is **EXACTLY** what the output file you create should look like:
-<img src="pic3.png" width=700>
+Here is **EXACTLY** what `filestats.txt` should look like after you run the program. (You can open the file just by double-clicking it.)
+
+```
+File Statistics
+Number of lines: 19
+Number of characters: 3126
+Number of lines containing "q": 1
+Number of lines containing "t": 19
+Characters per line: 164.53
+```
+
 ---
 
 ## What to turn in
